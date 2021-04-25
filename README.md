@@ -4,8 +4,12 @@ A bot to automatically input mathletic math equations
 # Requirements
 1. Python3
 2. Chrome Browser
-3. Libraries Listed:
-    3.a - Selenium
+3. Libraries Listed
+
+
+# Python Libraries
+
+1. Selenium
 
 
 Install 
