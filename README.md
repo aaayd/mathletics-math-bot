@@ -20,7 +20,7 @@ $ pip install webdriver_manager
 2. Log into mathletics 
 3. Load a game (Either AI or Online)
 4. Make sure the Game tab is the original tab opened
-5. Press [Enter] on the script
+5. Press `Enter` key on the script application
 
 # How to use JS Script
 
